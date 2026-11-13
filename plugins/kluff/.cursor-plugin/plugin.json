@@ -1,0 +1,15 @@
+{
+  "name": "kluff",
+  "displayName": "Kluff",
+  "version": "1.0.0",
+  "description": "Connect Cursor to your Kluff workspace: search projects, threads and project memory, check on your AI agents, and give them work.",
+  "author": {
+    "name": "Kluff, Inc.",
+    "email": "support@kluff.com"
+  },
+  "homepage": "https://kluff.com/docs/mcp",
+  "repository": "https://github.com/KluffHQ/Plugin",
+  "license": "MIT",
+  "keywords": ["kluff", "mcp", "agents", "workspace", "memory", "productivity"],
+  "logo": "assets/logo.png"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kluff",
+  "owner": {
+    "name": "Kluff, Inc.",
+    "email": "support@kluff.com"
+  },
+  "metadata": {
+    "description": "Official Kluff plugins for Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kluff",
+      "source": "./plugins/kluff",
+      "description": "Search your Kluff workspace and project memory, check on your AI agents and give them work."
+    }
+  ]
+}
