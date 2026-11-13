@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.KluffHQ/kluff",
+  "title": "Kluff",
+  "description": "Search your Kluff workspace's projects, threads and memory, and give work to your AI agents.",
+  "websiteUrl": "https://kluff.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/KluffHQ/Plugin",
+    "source": "github",
+    "id": "1456699022"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.kluff.com/v1"
+    }
+  ]
+}
